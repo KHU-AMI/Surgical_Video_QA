@@ -1,0 +1,22 @@
+{"video_id": "v_uqiMw7tQ1Cc", "task": "captioning", "query_id": 0, "answer": "A man is doing a leg exercise with a man in a gym from 20 to 30. A man is doing a leg exercise with a man in a gym from 30 to 40. A man is doing a leg exercise with a man in a gym from 40 to 50. A man is doing a leg exercise with a man in a gym from 50 to 60. A man is doing a leg exercise with a man in a gym from 60 to 70."}
+{"video_id": "v_uqiMw7tQ1Cc", "task": "grounding", "query_id": 0, "answer": "From 00 to 99.", "info": {"sentence_id": 0, "iou": 0.08}}
+{"video_id": "v_uqiMw7tQ1Cc", "task": "grounding", "query_id": 0, "answer": "From 00 to 99.", "info": {"sentence_id": 1, "iou": 0.54}}
+{"video_id": "v_uqiMw7tQ1Cc", "task": "grounding", "query_id": 0, "answer": "From 00 to 99.", "info": {"sentence_id": 2, "iou": 0.39}}
+{"video_id": "v_bXdq2zI1Ms0", "task": "captioning", "query_id": 0, "answer": "A man is doing a martial arts exercise from 20 to 30. A man is doing a martial exercise in a room from 30 to 40. A man is doing a martial exercise in a room from 40 to 50. A man is doing a martial exercise in a room from 50 to 60."}
+{"video_id": "v_bXdq2zI1Ms0", "task": "grounding", "query_id": 0, "answer": "From 00 to 91.", "info": {"sentence_id": 0, "iou": 0.86}}
+{"video_id": "v_bXdq2zI1Ms0", "task": "grounding", "query_id": 0, "answer": "From 00 to 91.", "info": {"sentence_id": 1, "iou": 0.09}}
+{"video_id": "v_bXdq2zI1Ms0", "task": "grounding", "query_id": 0, "answer": "From 00 to 91.", "info": {"sentence_id": 2, "iou": 0.19}}
+{"video_id": "v_CN01Gm2Yc4k", "task": "captioning", "query_id": 0, "answer": "A man is doing a workout in a gym from 20 to 30. A man is doing a workout in a gym from 30 to 40. A man is doing a workout in a gym from 40 to 50. A man is doing a workout in a gym from 50 to 60."}
+{"video_id": "v_CN01Gm2Yc4k", "task": "grounding", "query_id": 0, "answer": "From 00 to 94.", "info": {"sentence_id": 0, "iou": 0.3}}
+{"video_id": "v_CN01Gm2Yc4k", "task": "grounding", "query_id": 0, "answer": "From 00 to 99.", "info": {"sentence_id": 1, "iou": 0.41}}
+{"video_id": "v_CN01Gm2Yc4k", "task": "grounding", "query_id": 0, "answer": "From 00 to 99.", "info": {"sentence_id": 2, "iou": 0.3}}
+{"video_id": "v_K6Tm5xHkJ5c", "task": "captioning", "query_id": 0, "answer": "A woman is playing accordion in front of a black background from 20 to 30. A woman is playing an accordion in front of a black background from 30 to 40. A woman is playing an accordion in front of a black background from 40 to 50. A woman is playing an accordion in front of a black background from 50 to 60."}
+{"video_id": "v_K6Tm5xHkJ5c", "task": "grounding", "query_id": 0, "answer": "From 00 to 91.", "info": {"sentence_id": 0, "iou": 0.21}}
+{"video_id": "v_K6Tm5xHkJ5c", "task": "grounding", "query_id": 0, "answer": "From 00 to 91.", "info": {"sentence_id": 1, "iou": 0.56}}
+{"video_id": "v_K6Tm5xHkJ5c", "task": "grounding", "query_id": 0, "answer": "From 00 to 91.", "info": {"sentence_id": 2, "iou": 0.11}}
+{"video_id": "v_4Lu8ECLHvK4", "task": "captioning", "query_id": 0, "answer": "From 20 to 99."}
+{"video_id": "v_4Lu8ECLHvK4", "task": "grounding", "query_id": 0, "answer": "From 00 to 99.", "info": {"sentence_id": 0, "iou": 0.21}}
+{"video_id": "v_4Lu8ECLHvK4", "task": "grounding", "query_id": 0, "answer": "From 00 to 99.", "info": {"sentence_id": 1, "iou": 0.41}}
+{"video_id": "v_4Lu8ECLHvK4", "task": "grounding", "query_id": 0, "answer": "From 00 to 99.", "info": {"sentence_id": 2, "iou": 0.31}}
+{"video_id": "v_HWV_ccmZVPA", "task": "captioning", "query_id": 0, "answer": "From 20 to 30, a man playing guitar in front of a crowd. From 30 to 40, a man playing guitar in front of a crowd. From 40 to 50, a man playing guitar in front of a crowd. From 50 to 60, a man playing guitar in front of a crowd. From 60 to 70, a man playing guitar in front of a crowd. From 70 to 80, a man playing guitar in front of a crowd. From 80 to 90, a man playing guitar in front of a crowd."}
+{"video_id": "v_HWV_ccmZVPA", "task": "grounding", "query_id": 0, "answer": "From 97 to 99.", "info": {"sentence_id": 0, "iou": 0.02}}
